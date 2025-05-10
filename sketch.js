@@ -4,5 +4,6 @@ function setup() {
 
 function draw() {
   background(220);
-  text("Hello World")
+  textSize(20)
+  text("Hello World",200,200)
 }
